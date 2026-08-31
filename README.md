@@ -1,5 +1,8 @@
-# 🏰 StreamTower
+<p align="center">
+  <img src="StreamTower-Banner.png" alt="StreamTower - The Stream Command Center for Twitch Streamers" width="100%">
+</p>
 
+# 🏰 StreamTower
 ### Your Stream. Your Tower.
 
 **The Stream Command Center for Twitch Streamers**
